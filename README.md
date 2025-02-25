@@ -1,6 +1,6 @@
-Olá, sou a Kelly
+Olá, sou a Kelly ✨
 
-- Estou Cursando Ciência da Computação e estou no 7° período
+- Estou Cursando Ciência da Computação e estou no 7° período 👩🏻‍💻
 
 <div align="center">
   <a href="https://github.com/kellycardosob">
