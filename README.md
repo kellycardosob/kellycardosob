@@ -1,6 +1,6 @@
 Olá, sou a Kelly ✨
 
-- Estou Cursando Ciência da Computação e estou no 7° período 👩🏻‍💻
+- Estou Cursando Ciência da Computação no 7° período 👩🏻‍💻
   
   Já trabalhei com C#, mas atualmente trabalho com o framework Angular 🟥
 
